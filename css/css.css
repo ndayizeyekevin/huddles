@@ -382,6 +382,34 @@ footer .bg-top-mob{
 
 
 @media screen and (min-width: 375px) {
+    body{
+        min-width: 250px;
+    }
+    
+    /*header*/
+header>.container{
+    justify-content: space-between;
+   
+}
+header img{
+    width: 150px;
+    float: left;
+}
+header .left{
+    font-size: 40px;
+}
+header button{
+    font-size: 13px;
+    width: 100px;
+
+}
+/*section part-3*/
+
+
+.part-3 p{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
     
 }
 
