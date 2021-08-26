@@ -399,19 +399,41 @@ header .left{
     font-size: 40px;
 }
 header button{
-    font-size: 10px;
+    font-size: 13px;
     width: 100px;
 
+}
+.part-1 button,.part-7 button{
+    padding: 14px;
+    width: 200px;
+    margin: 60px auto;
+    border-radius: 50px;
+    font-size: 12px;
+}
+/*section part-2*/
+.part-2{
+    margin-left: 35px;
+    margin-right: 35px;
 }
 /*section part-3*/
 
 
-.part-3 p{
-    font-size: 15px;
+.part-1 p,.part-2 p,.part-4 p,.part-5 p{
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-family: 'Open Sans', sans-serif;
 }
-    .container button{
-        font-size: 15px;}
+.part-3 p,.part-6 p{
+    font-size: 14px;
+  
+    font-family: 'Open Sans', sans-serif;
+}
+    
+footer p,.container h3,form,svg,img,i{
+    margin-left: 20px;
+    margin-right: 20px;
+}  
     
 }
 
