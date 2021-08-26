@@ -381,7 +381,7 @@ footer .bg-top-mob{
 }
 
 
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
     body{
         min-width: 250px;
     }
@@ -399,7 +399,7 @@ header .left{
     font-size: 40px;
 }
 header button{
-    font-size: 13px;
+    font-size: 10px;
     width: 100px;
 
 }
@@ -410,6 +410,8 @@ header button{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 }
+    .container button{
+        font-size: 15px;}
     
 }
 
