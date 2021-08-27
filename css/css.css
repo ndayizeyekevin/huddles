@@ -414,9 +414,13 @@ header button{
 .part-2{
     margin-left: 35px;
     margin-right: 35px;
+    margin-bottom: 40px;
 }
 /*section part-3*/
-
+.part-3 p{
+    margin-bottom: 30px;
+    font-size: 16px;
+}
 
 .part-1 p,.part-2 p,.part-4 p,.part-5 p{
     font-size: 14px;
@@ -424,7 +428,7 @@ header button{
     margin-right: 20px;
     font-family: 'Open Sans', sans-serif;
 }
-.part-3 p,.part-6 p{
+.part-6 p{
     font-size: 14px;
   
     font-family: 'Open Sans', sans-serif;
